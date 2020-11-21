@@ -1,14 +1,15 @@
 body {background-color:
-     #FFFFFF;}
+      #FFFFFF;}
 
+body {font-family: Open sans-serif;
+Oswald; }
+    
 nav {position: fixed;
 width: 100vW;}
 
-.imagen { }
+.imagen { width: 1280px; height: 737px;}
 
 
-.fondo {background-color: #660066;
-}    
 
 .titulo { width: 187px; 
     height: 107px;
